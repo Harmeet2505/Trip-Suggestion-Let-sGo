@@ -20,14 +20,13 @@ Gemini API - For generating Itenaries and hotel suggestion
 Installation
 
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/Harmeet2505/trip-suggestion-app.git
-cd trip-suggestion-app
+    git clone https://github.com/Harmeet2505/trip-suggestion-app.git
+    cd trip-suggestion-app
+
+
+
 Open the project in Xcode:
-bash
-Copy code
-open TripSuggestionApp.xcodeproj
+      open TripSuggestionApp.xcodeproj
 
 Set up Firebase:
 Create a Firebase project and add an iOS app to it.
